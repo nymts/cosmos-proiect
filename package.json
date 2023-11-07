@@ -1,0 +1,12 @@
+{
+  "name": "proiect-cosmos",
+  "version": "1.0.0",
+  "description": "Cosmos proiect",
+  "main": "wproiect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node wproiect.js"
+  },
+  "author": "Nagy Mátyás",
+  "license": "ISC"
+}
