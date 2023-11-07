@@ -1,4 +1,4 @@
-# Planetary Adventures
+# Cosmos Proiect
 The project is hosted on Netlify. To view the project, click [here](https://nymts-travel-site.netlify.app/).
 
 
